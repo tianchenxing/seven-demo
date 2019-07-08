@@ -1,0 +1,136 @@
+2019-07-01 11:42:07.347 [main] INFO  com.tong.sevencore.SevenCoreApplication - Starting SevenCoreApplication on LAPTOP-AHHUQ9A2 with PID 20548 (D:\workspace\seven-core\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 11:42:07.351 [main] INFO  com.tong.sevencore.SevenCoreApplication - No active profile set, falling back to default profiles: default
+2019-07-01 11:42:08.371 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencore]' package. Please check your configuration.
+2019-07-01 11:42:08.851 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:42:09.067 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:42:09.185 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 11:42:09.204 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:42:09.217 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 11:42:09.218 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 11:42:09.428 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-01 11:42:09.429 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1957 ms
+2019-07-01 11:42:09.696 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:42:10.071 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-01 11:42:10.075 [main] INFO  com.tong.sevencore.SevenCoreApplication - Started SevenCoreApplication in 3.237 seconds (JVM running for 3.97)
+2019-07-01 11:42:20.040 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-01 11:42:20.040 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-01 11:42:20.045 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-07-01 11:42:20.062 [http-nio-8080-exec-2] INFO  com.tong.sevencore.controller.HelloCore - hello,core! this is info,2019-07-01 11:42:20
+2019-07-01 11:42:20.063 [http-nio-8080-exec-2] WARN  com.tong.sevencore.controller.HelloCore - hello,core! this is warn,2019-07-01 11:42:20
+2019-07-01 11:42:20.063 [http-nio-8080-exec-2] ERROR com.tong.sevencore.controller.HelloCore - hello,core! this is error,2019-07-01 11:42:20
+2019-07-01 11:42:32.205 [http-nio-8080-exec-3] INFO  com.tong.sevencore.controller.HelloCore - hello,core! this is info,2019-07-01 11:42:32
+2019-07-01 11:42:32.205 [http-nio-8080-exec-3] WARN  com.tong.sevencore.controller.HelloCore - hello,core! this is warn,2019-07-01 11:42:32
+2019-07-01 11:42:32.205 [http-nio-8080-exec-3] ERROR com.tong.sevencore.controller.HelloCore - hello,core! this is error,2019-07-01 11:42:32
+2019-07-01 11:52:20.424 [main] INFO  com.tong.sevencore.SevenCoreApplication - Starting SevenCoreApplication on LAPTOP-AHHUQ9A2 with PID 4872 (D:\workspace\seven-core\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 11:52:20.431 [main] INFO  com.tong.sevencore.SevenCoreApplication - No active profile set, falling back to default profiles: default
+2019-07-01 11:52:21.456 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencore]' package. Please check your configuration.
+2019-07-01 11:52:22.000 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:52:22.220 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:52:22.335 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 11:52:22.353 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:52:22.364 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 11:52:22.365 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 11:52:22.553 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/core] - Initializing Spring embedded WebApplicationContext
+2019-07-01 11:52:22.554 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2029 ms
+2019-07-01 11:52:22.831 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:52:23.237 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:52:23.239 [main] ERROR org.apache.catalina.util.LifecycleBase - Failed to start component [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:227)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:263)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:195)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:296)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:742)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:389)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.tong.sevencore.SevenCoreApplication.main(SevenCoreApplication.java:10)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:230)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:213)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1124)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1210)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:585)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005)
+	... 14 common frames omitted
+2019-07-01 11:52:23.246 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2019-07-01 11:52:23.256 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-07-01 11:52:23.360 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-07-01 11:52:23.365 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:53:27.046 [main] INFO  com.tong.sevencore.SevenCoreApplication - Starting SevenCoreApplication on LAPTOP-AHHUQ9A2 with PID 14212 (D:\workspace\seven-core\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 11:53:27.054 [main] INFO  com.tong.sevencore.SevenCoreApplication - No active profile set, falling back to default profiles: default
+2019-07-01 11:53:28.216 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencore]' package. Please check your configuration.
+2019-07-01 11:53:28.734 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:53:28.925 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:53:29.035 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2019-07-01 11:53:29.052 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:53:29.064 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 11:53:29.065 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 11:53:29.234 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/core] - Initializing Spring embedded WebApplicationContext
+2019-07-01 11:53:29.234 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2055 ms
+2019-07-01 11:53:29.513 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:53:29.923 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/core'
+2019-07-01 11:53:30.025 [main] INFO  com.tong.sevencore.SevenCoreApplication - Started SevenCoreApplication in 4.279 seconds (JVM running for 5.62)
+2019-07-01 11:54:35.592 [main] INFO  com.tong.sevencore.SevenCoreApplication - Starting SevenCoreApplication on LAPTOP-AHHUQ9A2 with PID 17352 (D:\workspace\seven-core\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 11:54:35.596 [main] INFO  com.tong.sevencore.SevenCoreApplication - No active profile set, falling back to default profiles: default
+2019-07-01 11:54:36.518 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencore]' package. Please check your configuration.
+2019-07-01 11:54:37.015 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:54:37.223 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:54:37.325 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2019-07-01 11:54:37.347 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:54:37.363 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 11:54:37.364 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 11:54:37.551 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/core] - Initializing Spring embedded WebApplicationContext
+2019-07-01 11:54:37.552 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1861 ms
+2019-07-01 11:54:37.825 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:54:38.197 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/core'
+2019-07-01 11:54:38.201 [main] INFO  com.tong.sevencore.SevenCoreApplication - Started SevenCoreApplication in 3.078 seconds (JVM running for 3.82)
+2019-07-01 11:55:54.547 [main] INFO  com.tong.sevencore.SevenCoreApplication - Starting SevenCoreApplication on LAPTOP-AHHUQ9A2 with PID 18840 (D:\workspace\seven-core\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 11:55:54.560 [main] INFO  com.tong.sevencore.SevenCoreApplication - No active profile set, falling back to default profiles: default
+2019-07-01 11:55:55.750 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencore]' package. Please check your configuration.
+2019-07-01 11:55:56.524 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:55:56.786 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:55:56.914 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2019-07-01 11:55:56.933 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-07-01 11:55:56.946 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 11:55:56.946 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 11:55:57.233 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/core] - Initializing Spring embedded WebApplicationContext
+2019-07-01 11:55:57.233 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2565 ms
+2019-07-01 11:55:57.502 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:55:57.937 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/core'
+2019-07-01 11:55:58.044 [main] INFO  com.tong.sevencore.SevenCoreApplication - Started SevenCoreApplication in 4.937 seconds (JVM running for 6.52)
+2019-07-01 11:56:13.304 [http-nio-8081-exec-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/core] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-01 11:56:13.304 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-01 11:56:13.320 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 15 ms
+2019-07-01 11:56:13.341 [http-nio-8081-exec-1] INFO  com.tong.sevencore.controller.HelloCore - hello,core! this is info,2019-07-01 11:56:13
+2019-07-01 11:56:13.342 [http-nio-8081-exec-1] WARN  com.tong.sevencore.controller.HelloCore - hello,core! this is warn,2019-07-01 11:56:13
+2019-07-01 11:56:13.342 [http-nio-8081-exec-1] ERROR com.tong.sevencore.controller.HelloCore - hello,core! this is error,2019-07-01 11:56:13
+2019-07-01 11:57:59.413 [http-nio-8081-exec-5] INFO  com.tong.sevencore.controller.HelloCore - hello,core! this is info,2019-07-01 11:57:59
+2019-07-01 11:57:59.414 [http-nio-8081-exec-5] WARN  com.tong.sevencore.controller.HelloCore - hello,core! this is warn,2019-07-01 11:57:59
+2019-07-01 11:57:59.414 [http-nio-8081-exec-5] ERROR com.tong.sevencore.controller.HelloCore - hello,core! this is error,2019-07-01 11:57:59

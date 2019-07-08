@@ -1,0 +1,457 @@
+2019-07-05 14:04:44.235 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 23796 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 14:04:44.279 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 14:04:45.779 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 14:04:46.115 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 14:04:46.119 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 14:04:46.223 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 65ms. Found 0 repository interfaces.
+2019-07-05 14:04:47.144 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d47c3acd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 14:04:48.405 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 14:04:48.423 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:04:48.435 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 14:04:48.435 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 14:04:48.754 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 14:04:48.754 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4312 ms
+2019-07-05 14:04:52.252 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 14:04:53.704 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:04:53.731 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 14:04:53.753 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 11.279 seconds (JVM running for 14.514)
+2019-07-05 14:07:33.375 [http-nio-8080-exec-3] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 14:07:33.376 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 14:07:33.419 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 43 ms
+2019-07-05 14:07:43.697 [http-nio-8080-exec-3] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 14:07:43.699 [http-nio-8080-exec-3] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 14:24:45.084 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 4544 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 14:24:45.092 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 14:24:46.512 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 14:24:46.765 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 14:24:46.770 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 14:24:46.837 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44ms. Found 0 repository interfaces.
+2019-07-05 14:24:47.389 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bc31f81f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 14:24:48.421 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 14:24:48.442 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:24:48.452 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 14:24:48.453 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 14:24:48.773 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 14:24:48.773 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3516 ms
+2019-07-05 14:24:52.018 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 14:24:54.021 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:24:54.060 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 14:24:54.069 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 11.033 seconds (JVM running for 13.298)
+2019-07-05 14:26:53.642 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 14:26:53.642 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 14:26:53.682 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 40 ms
+2019-07-05 14:26:57.718 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 14:26:57.719 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 14:27:39.344 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 18808 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 14:27:39.365 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 14:27:41.230 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 14:27:41.555 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 14:27:41.560 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 14:27:41.648 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 56ms. Found 0 repository interfaces.
+2019-07-05 14:27:42.232 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$553ba73] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 14:27:43.180 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 14:27:43.200 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:27:43.213 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 14:27:43.214 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 14:27:43.539 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 14:27:43.540 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4041 ms
+2019-07-05 14:27:47.248 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 14:27:50.110 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:27:50.157 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 14:27:50.166 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 12.798 seconds (JVM running for 14.568)
+2019-07-05 14:29:42.281 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 22800 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 14:29:42.287 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 14:29:43.491 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 14:29:43.804 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 14:29:43.811 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 14:29:43.902 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 62ms. Found 0 repository interfaces.
+2019-07-05 14:29:44.519 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9fd323f2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 14:29:45.639 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 14:29:45.664 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:29:45.681 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 14:29:45.682 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 14:29:46.017 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 14:29:46.018 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3611 ms
+2019-07-05 14:29:48.952 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 14:29:50.687 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:29:50.723 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 14:29:50.727 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 9.966 seconds (JVM running for 12.205)
+2019-07-05 14:29:54.355 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 14:29:54.355 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 14:29:54.388 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 33 ms
+2019-07-05 14:29:57.230 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 14:29:57.232 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 14:42:13.335 [lettuce-nioEventLoop-4-1] INFO  io.lettuce.core.protocol.CommandHandler - null Unexpected exception during request: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1125)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:682)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:617)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:534)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:906)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2019-07-05 14:42:13.445 [lettuce-eventExecutorLoop-1-4] INFO  io.lettuce.core.protocol.ConnectionWatchdog - Reconnecting, last destination was localhost/127.0.0.1:6379
+2019-07-05 14:42:18.943 [lettuce-eventExecutorLoop-1-1] INFO  io.lettuce.core.protocol.ConnectionWatchdog - Reconnecting, last destination was localhost:6379
+2019-07-05 14:42:24.145 [lettuce-eventExecutorLoop-1-5] INFO  io.lettuce.core.protocol.ConnectionWatchdog - Reconnecting, last destination was localhost:6379
+2019-07-05 14:42:29.344 [lettuce-eventExecutorLoop-1-7] INFO  io.lettuce.core.protocol.ConnectionWatchdog - Reconnecting, last destination was localhost:6379
+2019-07-05 14:42:29.847 [lettuce-nioEventLoop-4-5] INFO  io.lettuce.core.protocol.ReconnectionHandler - Reconnected to localhost:6379
+2019-07-05 14:47:23.965 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 6568 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 14:47:23.974 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 14:47:25.364 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 14:47:25.643 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 14:47:25.648 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 14:47:25.740 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 61ms. Found 0 repository interfaces.
+2019-07-05 14:47:26.530 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c86fb15b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 14:47:27.673 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 14:47:27.693 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:47:27.706 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 14:47:27.707 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 14:47:28.031 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 14:47:28.032 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3817 ms
+2019-07-05 14:47:30.677 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 14:47:32.248 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:47:32.278 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 14:47:32.281 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 9.704 seconds (JVM running for 11.505)
+2019-07-05 14:47:45.834 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 14:47:45.835 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 14:47:45.869 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 34 ms
+2019-07-05 14:47:50.624 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 14:47:50.625 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 14:48:16.515 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-07-05 14:48:16.881 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-07-05 14:53:24.120 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 21304 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 14:53:24.131 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 14:53:25.248 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 14:53:25.490 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 14:53:25.493 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 14:53:25.559 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44ms. Found 0 repository interfaces.
+2019-07-05 14:53:26.122 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$81d61bba] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 14:53:27.040 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 14:53:27.058 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:53:27.070 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 14:53:27.070 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 14:53:27.350 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 14:53:27.350 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3118 ms
+2019-07-05 14:53:29.711 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 14:53:31.171 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 14:53:31.203 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 14:53:31.207 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 8.518 seconds (JVM running for 10.074)
+2019-07-05 14:53:53.114 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 14:53:53.115 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 14:53:53.146 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 31 ms
+2019-07-05 14:53:53.428 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 14:53:53.430 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 14:54:02.309 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-07-05 14:54:02.427 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-07-05 15:14:00.325 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 25376 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 15:14:00.343 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 15:14:01.619 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 15:14:01.924 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 15:14:01.928 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 15:14:02.026 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 54ms. Found 0 repository interfaces.
+2019-07-05 15:14:02.663 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$83d4edbc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 15:14:04.068 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 15:14:04.104 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:14:04.124 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 15:14:04.124 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 15:14:04.627 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 15:14:04.628 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4068 ms
+2019-07-05 15:14:08.468 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 15:14:10.099 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:14:10.144 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 15:14:10.148 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 11.953 seconds (JVM running for 13.91)
+2019-07-05 15:14:13.520 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 15:14:13.520 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 15:14:13.564 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 44 ms
+2019-07-05 15:14:50.347 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 1060 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 15:14:50.355 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 15:14:51.929 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 15:14:52.162 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 15:14:52.165 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 15:14:52.232 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44ms. Found 0 repository interfaces.
+2019-07-05 15:14:52.771 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$afc685cd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 15:14:53.774 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 15:14:53.794 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:14:53.807 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 15:14:53.808 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 15:14:54.064 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 15:14:54.065 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3543 ms
+2019-07-05 15:14:56.942 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 15:14:58.703 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:14:58.742 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 15:14:58.747 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 10.849 seconds (JVM running for 12.978)
+2019-07-05 15:15:09.643 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 16056 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 15:15:09.653 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 15:15:10.867 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 15:15:11.145 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 15:15:11.150 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 15:15:11.239 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 62ms. Found 0 repository interfaces.
+2019-07-05 15:15:11.823 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f22638f6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 15:15:12.818 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 15:15:12.837 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:15:12.848 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 15:15:12.848 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 15:15:13.139 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 15:15:13.140 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3349 ms
+2019-07-05 15:15:15.881 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 15:15:17.505 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:15:17.543 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 15:15:17.549 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 9.697 seconds (JVM running for 11.752)
+2019-07-05 15:15:24.148 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 15:15:24.149 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 15:15:24.179 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 30 ms
+2019-07-05 15:28:52.419 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 24364 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 15:28:52.425 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 15:28:53.798 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 15:28:54.135 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 15:28:54.139 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 15:28:54.210 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 45ms. Found 0 repository interfaces.
+2019-07-05 15:28:54.813 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$731c0a69] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 15:28:55.836 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 15:28:55.856 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:28:55.866 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 15:28:55.866 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 15:28:56.131 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 15:28:56.131 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3592 ms
+2019-07-05 15:28:58.653 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 15:29:00.473 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:29:00.516 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 15:29:00.521 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 9.774 seconds (JVM running for 12.342)
+2019-07-05 15:29:24.557 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 15:29:24.557 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 15:29:24.599 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 42 ms
+2019-07-05 15:29:24.970 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 15:29:24.972 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 15:30:08.911 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 21520 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 15:30:08.923 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 15:30:10.134 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 15:30:10.408 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 15:30:10.414 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 15:30:10.485 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 47ms. Found 0 repository interfaces.
+2019-07-05 15:30:11.035 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f40994a8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 15:30:12.023 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 15:30:12.039 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:30:12.051 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 15:30:12.051 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 15:30:12.309 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 15:30:12.310 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3237 ms
+2019-07-05 15:30:14.869 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 15:30:16.451 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:30:16.487 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 15:30:16.492 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 9.575 seconds (JVM running for 11.841)
+2019-07-05 15:30:38.333 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 15:30:38.334 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 15:30:38.374 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 40 ms
+2019-07-05 15:30:38.566 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 15:30:38.569 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 15:32:45.956 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 25276 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 15:32:45.967 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 15:32:47.163 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 15:32:47.410 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 15:32:47.414 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 15:32:47.476 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 40ms. Found 0 repository interfaces.
+2019-07-05 15:32:48.012 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d93b1c1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 15:32:48.937 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 15:32:48.957 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:32:48.968 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 15:32:48.969 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 15:32:49.157 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 15:32:49.157 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3025 ms
+2019-07-05 15:32:52.021 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 15:32:53.701 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:32:53.740 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 15:32:53.746 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 9.547 seconds (JVM running for 11.653)
+2019-07-05 15:33:25.129 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 15492 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 15:33:25.139 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 15:33:26.491 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 15:33:26.792 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 15:33:26.796 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 15:33:26.868 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 45ms. Found 0 repository interfaces.
+2019-07-05 15:33:27.477 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2d581732] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 15:33:28.499 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 15:33:28.523 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:33:28.539 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 15:33:28.539 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 15:33:29.202 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 15:33:29.202 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3911 ms
+2019-07-05 15:33:33.252 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 15:33:36.675 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:33:36.713 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 15:33:36.717 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 13.117 seconds (JVM running for 14.691)
+2019-07-05 15:33:43.214 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 15:33:43.215 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 15:33:43.249 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 34 ms
+2019-07-05 15:33:43.418 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 15:33:43.420 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 15:35:56.600 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 10388 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 15:35:56.612 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 15:35:57.768 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 15:35:58.044 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 15:35:58.048 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 15:35:58.117 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 48ms. Found 0 repository interfaces.
+2019-07-05 15:35:58.671 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$37cc5894] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 15:35:59.636 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 15:35:59.653 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:35:59.664 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 15:35:59.665 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 15:35:59.919 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 15:35:59.919 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3174 ms
+2019-07-05 15:36:02.571 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 15:36:04.274 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:36:04.307 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 15:36:04.311 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 9.164 seconds (JVM running for 11.003)
+2019-07-05 15:36:29.911 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 15:36:29.911 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 15:36:29.944 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 32 ms
+2019-07-05 15:36:30.095 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 15:36:30.097 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 15:50:20.506 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 5496 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 15:50:20.518 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 15:50:22.015 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 15:50:22.283 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 15:50:22.287 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 15:50:22.362 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 50ms. Found 0 repository interfaces.
+2019-07-05 15:50:22.983 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$899a63c2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 15:50:23.979 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 15:50:23.998 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:50:24.008 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 15:50:24.009 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 15:50:24.265 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 15:50:24.266 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3520 ms
+2019-07-05 15:50:26.816 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 15:50:28.351 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:50:28.381 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 15:50:28.385 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 9.15 seconds (JVM running for 11.083)
+2019-07-05 15:52:51.262 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 15:52:51.262 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 15:52:51.300 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 38 ms
+2019-07-05 15:52:51.486 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 15:52:51.488 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 15:55:20.221 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 19712 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 15:55:20.234 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 15:55:21.452 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 15:55:21.735 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 15:55:21.740 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 15:55:21.816 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 47ms. Found 0 repository interfaces.
+2019-07-05 15:55:22.390 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c94f58e1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 15:55:23.360 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 15:55:23.378 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:55:23.389 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 15:55:23.390 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 15:55:23.630 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 15:55:23.631 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3252 ms
+2019-07-05 15:55:26.112 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 15:55:27.585 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 15:55:27.614 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 15:55:27.618 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 8.804 seconds (JVM running for 10.797)
+2019-07-05 15:55:55.383 [http-nio-8080-exec-3] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 15:55:55.383 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 15:55:55.422 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 38 ms
+2019-07-05 15:55:55.599 [http-nio-8080-exec-3] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 15:55:55.601 [http-nio-8080-exec-3] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 16:42:14.547 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 12792 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 16:42:14.564 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 16:42:15.604 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 16:42:15.788 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 16:42:15.790 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 16:42:15.846 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 27ms. Found 0 repository interfaces.
+2019-07-05 16:42:16.155 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1a0462b1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 16:42:16.985 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 16:42:16.999 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 16:42:17.008 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 16:42:17.008 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 16:42:17.183 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 16:42:17.183 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2486 ms
+2019-07-05 16:42:19.230 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:42:20.424 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 16:42:20.450 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 16:42:20.454 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 7.132 seconds (JVM running for 8.864)
+2019-07-05 16:42:33.535 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 16:42:33.536 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 16:42:33.578 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 42 ms
+2019-07-05 16:42:33.878 [http-nio-8080-exec-2] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 16:42:33.879 [http-nio-8080-exec-2] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 16:42:47.029 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-07-05 16:42:47.450 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-07-05 16:44:31.156 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 24652 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 16:44:31.160 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 16:44:31.778 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 16:44:31.917 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 16:44:31.919 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 16:44:31.957 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 26ms. Found 0 repository interfaces.
+2019-07-05 16:44:32.261 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5166b2aa] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 16:44:32.882 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 16:44:32.894 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 16:44:32.902 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 16:44:32.903 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 16:44:33.062 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 16:44:33.062 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1836 ms
+2019-07-05 16:44:34.940 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:44:35.951 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 16:44:35.973 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 16:44:35.977 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 5.602 seconds (JVM running for 6.607)
+2019-07-05 16:45:01.563 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 16:45:01.563 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 16:45:01.592 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 29 ms
+2019-07-05 16:45:01.724 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 16:45:01.725 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 16:45:10.066 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-07-05 16:45:10.172 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-07-05 16:45:41.271 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 18584 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 16:45:41.276 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 16:45:41.928 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 16:45:42.082 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 16:45:42.084 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 16:45:42.125 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 26ms. Found 0 repository interfaces.
+2019-07-05 16:45:42.421 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$afc685cd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 16:45:43.031 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 16:45:43.041 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 16:45:43.049 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 16:45:43.049 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 16:45:43.208 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 16:45:43.209 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1856 ms
+2019-07-05 16:45:45.015 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:45:46.033 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 16:45:46.056 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 16:45:46.059 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 5.599 seconds (JVM running for 6.571)
+2019-07-05 16:47:15.719 [http-nio-8080-exec-3] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 16:47:15.719 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 16:47:15.754 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 34 ms
+2019-07-05 16:47:15.863 [http-nio-8080-exec-3] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 16:47:15.864 [http-nio-8080-exec-3] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 16:47:33.560 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-07-05 16:47:33.663 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-07-05 16:48:09.109 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 13704 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-05 16:48:09.112 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-05 16:48:09.609 [main] INFO  c.t.s.mutiplydatasource.DynamicDataSourceRegister - Dynamic DataSource Registry
+2019-07-05 16:48:09.753 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 16:48:09.756 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 16:48:09.793 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2019-07-05 16:48:10.086 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c6039ccc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 16:48:10.714 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-05 16:48:10.727 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-05 16:48:10.735 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-05 16:48:10.735 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 16:48:10.931 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-05 16:48:10.931 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1774 ms
+2019-07-05 16:48:12.725 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:48:13.790 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-05 16:48:13.811 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-05 16:48:13.813 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 5.581 seconds (JVM running for 6.686)
+2019-07-05 16:48:26.571 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 16:48:26.572 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-05 16:48:26.602 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 30 ms
+2019-07-05 16:48:26.730 [http-nio-8080-exec-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 16:48:26.730 [http-nio-8080-exec-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 16:48:36.592 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-07-05 16:48:36.697 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

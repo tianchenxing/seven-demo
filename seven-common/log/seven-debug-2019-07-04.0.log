@@ -1,0 +1,75 @@
+2019-07-04 16:36:18.221 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 16:56:58.200 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:13:21.129 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:15:38.557 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:20:39.516 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:20:59.575 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:21:30.214 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:23:17.001 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:23:47.740 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:23:47.764 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: null, null, null, null, null, tom(String), 876wre(String), null, null, 125445(String), null
+2019-07-04 17:23:47.796 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-04 17:23:47.816 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-04 17:23:47.838 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1
+2019-07-04 17:23:47.840 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:23:47.841 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: 4(Long), null, null, null, null, tom(String), 876wre(String), null, null, 125445(String), null
+2019-07-04 17:24:56.177 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:27:06.931 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:27:06.951 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: null, null, null, null, null, tom(String), 1wsse3e(String), null, null, 125445(String), null
+2019-07-04 17:27:06.958 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-04 17:27:06.962 [http-nio-8080-exec-1] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-04 17:27:06.978 [http-nio-8080-exec-1] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1
+2019-07-04 17:27:36.330 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:27:36.331 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: 5(Long), null, null, null, null, tom(String), 1wsse3e(String), null, null, 125445(String), null
+2019-07-04 17:29:05.813 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:30:55.556 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:30:55.575 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: null, null, null, null, null, hello(String), 1ws03e(String), null, null, 125445(String), null
+2019-07-04 17:30:55.589 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-04 17:30:55.593 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-04 17:30:55.613 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1
+2019-07-04 17:31:05.269 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:31:05.271 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: null, null, null, null, null, hello(String), 1ws03e(String), null, null, 125445(String), 6(String)
+2019-07-04 17:31:05.277 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-04 17:31:05.278 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-04 17:31:05.279 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1
+2019-07-04 17:33:10.482 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:33:36.122 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:33:36.141 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: null, null, null, null, null, hello(String), 1ws03e(String), null, null, 125445(String), null
+2019-07-04 17:33:36.153 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-04 17:33:36.161 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-04 17:33:36.177 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1
+2019-07-04 17:34:07.295 [http-nio-8080-exec-2] DEBUG c.t.s.mutiplydatasource.DynamicDataSourceAspect - Use MultipleDataSource : one > Integer com.tong.sevencommon.service.impl.UserInfoServiceOneImpl.insertUser(TbBaseUserInfo)
+2019-07-04 17:34:11.593 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:34:11.595 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: null, null, null, null, null, hello(String), 1ws03e(String), null, null, 125445(String), 8(String)
+2019-07-04 17:34:11.601 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-04 17:34:11.602 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-04 17:34:11.603 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1
+2019-07-04 17:34:14.828 [http-nio-8080-exec-2] DEBUG c.t.s.mutiplydatasource.DynamicDataSourceAspect - Revert MultipleDataSource : one > Integer com.tong.sevencommon.service.impl.UserInfoServiceOneImpl.insertUser(TbBaseUserInfo)
+2019-07-04 17:34:54.201 [http-nio-8080-exec-3] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:34:54.203 [http-nio-8080-exec-3] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: null, null, null, null, null, hello(String), 1ws03e(String), null, null, 125445(String), null
+2019-07-04 17:34:54.212 [http-nio-8080-exec-3] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-04 17:34:54.213 [http-nio-8080-exec-3] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-04 17:34:54.214 [http-nio-8080-exec-3] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1
+2019-07-04 17:34:54.215 [http-nio-8080-exec-3] DEBUG c.t.s.mutiplydatasource.DynamicDataSourceAspect - Use MultipleDataSource : one > Integer com.tong.sevencommon.service.impl.UserInfoServiceOneImpl.insertUser(TbBaseUserInfo)
+2019-07-04 17:34:54.217 [http-nio-8080-exec-3] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:34:54.218 [http-nio-8080-exec-3] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: null, null, null, null, null, hello(String), 1ws03e(String), null, null, 125445(String), 9(String)
+2019-07-04 17:34:54.246 [http-nio-8080-exec-3] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-04 17:34:54.247 [http-nio-8080-exec-3] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-04 17:34:54.248 [http-nio-8080-exec-3] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1
+2019-07-04 17:34:54.249 [http-nio-8080-exec-3] DEBUG c.t.s.mutiplydatasource.DynamicDataSourceAspect - Revert MultipleDataSource : one > Integer com.tong.sevencommon.service.impl.UserInfoServiceOneImpl.insertUser(TbBaseUserInfo)
+2019-07-04 17:38:15.185 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:38:24.643 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:38:24.683 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: null, null, null, null, null, world(String), 1ws03e(String), null, null, 125445(String), null
+2019-07-04 17:38:24.691 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-04 17:38:24.697 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-04 17:38:24.720 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1
+2019-07-04 17:38:24.731 [http-nio-8080-exec-2] DEBUG c.t.s.mutiplydatasource.DynamicDataSourceAspect - Use MultipleDataSource : one > Integer com.tong.sevencommon.service.impl.UserInfoServiceOneImpl.insertUser(TbBaseUserInfo)
+2019-07-04 17:38:24.743 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO tb_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-04 17:38:24.743 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: 10(Long), null, null, null, null, world(String), 1ws03e(String), null, null, 125445(String), 10(String)
+2019-07-04 17:38:24.751 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-04 17:38:24.752 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-04 17:38:24.753 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1
+2019-07-04 17:38:24.754 [http-nio-8080-exec-2] DEBUG c.t.s.mutiplydatasource.DynamicDataSourceAspect - Revert MultipleDataSource : one > Integer com.tong.sevencommon.service.impl.UserInfoServiceOneImpl.insertUser(TbBaseUserInfo)
+2019-07-04 17:43:29.156 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:45:08.368 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-04 17:46:23.424 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE

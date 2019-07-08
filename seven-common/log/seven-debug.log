@@ -1,0 +1,46 @@
+2019-07-05 14:04:44.252 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 14:24:45.091 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 14:27:39.364 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 14:29:42.287 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 14:47:23.972 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 14:48:16.889 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - ==>  Preparing: SELECT id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark FROM tb_base_user_info WHERE name = ? 
+2019-07-05 14:48:16.911 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - ==> Parameters: bella(String)
+2019-07-05 14:48:16.938 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - <==      Total: 1
+2019-07-05 14:49:42.696 [http-nio-8080-exec-5] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - ==>  Preparing: SELECT id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark FROM tb_base_user_info WHERE name = ? 
+2019-07-05 14:49:42.696 [http-nio-8080-exec-5] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - ==> Parameters: bella(String)
+2019-07-05 14:49:42.700 [http-nio-8080-exec-5] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - <==      Total: 1
+2019-07-05 14:51:20.947 [http-nio-8080-exec-8] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - ==>  Preparing: SELECT id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark FROM tb_base_user_info WHERE name = ? 
+2019-07-05 14:51:20.947 [http-nio-8080-exec-8] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - ==> Parameters: bella(String)
+2019-07-05 14:51:20.953 [http-nio-8080-exec-8] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - <==      Total: 1
+2019-07-05 14:53:24.129 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 14:54:02.433 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - ==>  Preparing: SELECT id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark FROM tb_base_user_info WHERE name = ? 
+2019-07-05 14:54:02.454 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - ==> Parameters: bella(String)
+2019-07-05 14:54:02.475 [http-nio-8080-exec-1] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.select - <==      Total: 1
+2019-07-05 15:14:00.341 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 15:14:50.354 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 15:15:09.652 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 15:28:52.425 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 15:30:08.921 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 15:32:45.966 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 15:33:25.138 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 15:35:56.610 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 15:50:20.516 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 15:55:20.233 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 16:42:14.564 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 16:42:47.457 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - ==>  Preparing: SELECT id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark FROM tb_base_user_info WHERE ( name = ? and id_no = ? ) order by desc 
+2019-07-05 16:42:47.477 [http-nio-8080-exec-2] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - ==> Parameters: tom(String), 125445(String)
+2019-07-05 16:44:31.160 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 16:45:10.176 [http-nio-8080-exec-1] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - ==>  Preparing: SELECT id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark FROM tb_base_user_info WHERE ( name = ? and id_no = ? ) order by id desc 
+2019-07-05 16:45:10.197 [http-nio-8080-exec-1] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - ==> Parameters: tom(String), 125445(String)
+2019-07-05 16:45:10.414 [http-nio-8080-exec-1] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - <==      Total: 3
+2019-07-05 16:45:41.275 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 16:47:33.668 [http-nio-8080-exec-3] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - ==>  Preparing: SELECT id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark FROM tb_base_user_info WHERE ( name = ? and id_no = ? ) order by id_no desc 
+2019-07-05 16:47:33.688 [http-nio-8080-exec-3] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - ==> Parameters: tom(String), 125445(String)
+2019-07-05 16:47:33.712 [http-nio-8080-exec-3] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - <==      Total: 3
+2019-07-05 16:48:09.112 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-05 16:48:36.702 [http-nio-8080-exec-1] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - ==>  Preparing: SELECT id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark FROM tb_base_user_info WHERE ( name = ? and id_no = ? ) order by id_no desc 
+2019-07-05 16:48:36.724 [http-nio-8080-exec-1] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - ==> Parameters: tom(String), 125445(String)
+2019-07-05 16:48:36.750 [http-nio-8080-exec-1] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - <==      Total: 3
+2019-07-05 16:48:41.973 [http-nio-8080-exec-3] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - ==>  Preparing: SELECT id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark FROM tb_base_user_info WHERE ( name = ? and id_no = ? ) order by id_no desc 
+2019-07-05 16:48:41.974 [http-nio-8080-exec-3] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - ==> Parameters: tom(String), 125445(String)
+2019-07-05 16:48:41.978 [http-nio-8080-exec-3] DEBUG c.t.s.mapper.UserInfoMapper.selectByExample - <==      Total: 3

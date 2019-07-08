@@ -1,0 +1,13 @@
+2019-07-01 11:44:04.008 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 11:45:30.779 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 11:50:24.716 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 11:52:11.877 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 12:00:23.088 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 12:01:00.844 [http-nio-8080-exec-1] WARN  com.tong.sevencommon.controller.HelloCommon - hello,core! this is warn,2019-07-01 12:01:00
+2019-07-01 12:06:00.429 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 12:06:15.676 [http-nio-8080-exec-2] WARN  com.tong.sevencommon.controller.HelloCommon - hello,core! this is warn,2019-07-01 12:06:15
+2019-07-01 12:07:26.417 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 12:07:39.642 [http-nio-8080-exec-2] WARN  com.tong.sevencommon.controller.HelloCommon - hello,core! this is warn,2019-07-01 12:07:39
+2019-07-01 12:08:15.952 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 12:08:22.549 [http-nio-8080-exec-2] WARN  com.tong.sevencommon.controller.HelloCommon - hello,core! this is warn,2019-07-01 12:08:22
+2019-07-01 17:49:07.017 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.

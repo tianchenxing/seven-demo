@@ -1,0 +1,6 @@
+2019-07-02 18:42:06.692 [main] DEBUG com.tong.sevencommon.SevenCommonApplication - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-02 18:42:30.709 [http-nio-8080-exec-4] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==>  Preparing: INSERT INTO t_base_user_info ( id,creater,create_time,updater,update_time,name,pass_word,telephone,address,id_no,remark ) VALUES( ?,?,?,?,?,?,?,?,?,?,? ) 
+2019-07-02 18:42:30.727 [http-nio-8080-exec-4] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - ==> Parameters: null, null, null, null, null, tom(String), 435wre(String), null, null, 125445(String), null
+2019-07-02 18:42:30.738 [http-nio-8080-exec-4] DEBUG com.tong.sevencommon.mapper.UserInfoMapper.insert - <==    Updates: 1
+2019-07-02 18:42:30.742 [http-nio-8080-exec-4] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - ==>  Executing: SELECT LAST_INSERT_ID() 
+2019-07-02 18:42:30.760 [http-nio-8080-exec-4] DEBUG c.t.s.mapper.UserInfoMapper.insert!selectKey - <==      Total: 1

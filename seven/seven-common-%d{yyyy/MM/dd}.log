@@ -1,0 +1,51 @@
+2019/06/28-17:39 [main] INFO  com.tong.sevencommon.SevenCommonApplication- Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 17980 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019/06/28-17:39 [main] INFO  com.tong.sevencommon.SevenCommonApplication- No active profile set, falling back to default profiles: default
+2019/06/28-17:39 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019/06/28-17:39 [main] ERROR org.apache.catalina.core.AprLifecycleListener- An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019/06/28-17:39 [main] ERROR org.apache.catalina.core.AprLifecycleListener- An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019/06/28-17:39 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 8080 (http)
+2019/06/28-17:39 [main] ERROR org.apache.catalina.core.AprLifecycleListener- An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019/06/28-17:39 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2019/06/28-17:39 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019/06/28-17:39 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2019/06/28-17:39 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 2082 ms
+2019/06/28-17:39 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2019/06/28-17:39 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 8080 (http) with context path ''
+2019/06/28-17:39 [main] INFO  com.tong.sevencommon.SevenCommonApplication- Started SevenCommonApplication in 3.778 seconds (JVM running for 4.576)
+FILE_LOG_PATTERNorg.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'logging.level' to java.util.Map<java.lang.String, java.lang.String>
+	at org.springframework.boot.context.properties.bind.Binder.handleBindError(Binder.java:242)
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:218)
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:202)
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:172)
+	at org.springframework.boot.context.logging.LoggingApplicationListener.setLogLevels(LoggingApplicationListener.java:328)
+	at org.springframework.boot.context.logging.LoggingApplicationListener.initializeFinalLoggingLevels(LoggingApplicationListener.java:304)
+	at org.springframework.boot.context.logging.LoggingApplicationListener.initialize(LoggingApplicationListener.java:255)
+	at org.springframework.boot.context.logging.LoggingApplicationListener.onApplicationEnvironmentPreparedEvent(LoggingApplicationListener.java:219)
+	at org.springframework.boot.context.logging.LoggingApplicationListener.onApplicationEvent(LoggingApplicationListener.java:196)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:75)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:53)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:340)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:304)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.tong.sevencommon.SevenCommonApplication.main(SevenCommonApplication.java:10)
+Caused by: org.springframework.core.convert.ConverterNotFoundException: No converter found capable of converting from type [java.lang.String] to type [java.util.Map<java.lang.String, java.lang.String>]
+	at org.springframework.core.convert.support.GenericConversionService.handleConverterNotFound(GenericConversionService.java:321)
+	at org.springframework.core.convert.support.GenericConversionService.convert(GenericConversionService.java:194)
+	at org.springframework.boot.context.properties.bind.BindConverter$CompositeConversionService.convert(BindConverter.java:170)
+	at org.springframework.boot.context.properties.bind.BindConverter.convert(BindConverter.java:96)
+	at org.springframework.boot.context.properties.bind.BindConverter.convert(BindConverter.java:88)
+	at org.springframework.boot.context.properties.bind.MapBinder.bindAggregate(MapBinder.java:64)
+	at org.springframework.boot.context.properties.bind.AggregateBinder.bind(AggregateBinder.java:56)
+	at org.springframework.boot.context.properties.bind.Binder.lambda$bindAggregate$2(Binder.java:293)
+	at org.springframework.boot.context.properties.bind.Binder$Context.withIncreasedDepth(Binder.java:429)
+	at org.springframework.boot.context.properties.bind.Binder$Context.access$100(Binder.java:372)
+	at org.springframework.boot.context.properties.bind.Binder.bindAggregate(Binder.java:293)
+	at org.springframework.boot.context.properties.bind.Binder.bindObject(Binder.java:254)
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:214)
+	... 18 common frames omitted
+FILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERNFILE_LOG_PATTERN

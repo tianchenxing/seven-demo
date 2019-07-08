@@ -1,0 +1,138 @@
+2019-07-01 11:44:03.127 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 12520 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 11:44:03.130 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-01 11:44:04.493 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 11:44:04.505 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:44:04.512 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 11:44:04.513 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 11:44:04.647 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-01 11:44:04.647 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1467 ms
+2019-07-01 11:44:04.850 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:44:05.170 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:44:05.285 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:44:05.286 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2019-07-01 11:44:05.387 [main] INFO  org.apache.catalina.util.LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-07-01 11:44:05.388 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:44:05.388 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:44:05.404 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-07-01 11:44:05.414 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:45:30.146 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 15436 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 11:45:30.150 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-01 11:45:31.395 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 11:45:31.410 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:45:31.418 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 11:45:31.419 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 11:45:31.558 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-01 11:45:31.559 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1356 ms
+2019-07-01 11:45:31.807 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:45:32.167 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:45:32.205 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-01 11:45:32.311 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 3.189 seconds (JVM running for 4.004)
+2019-07-01 11:46:09.932 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-01 11:46:09.932 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-01 11:46:09.941 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-07-01 11:50:24.147 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 3704 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 11:50:24.152 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-01 11:50:25.266 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 11:50:25.280 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:50:25.289 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 11:50:25.289 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 11:50:25.433 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-01 11:50:25.433 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1210 ms
+2019-07-01 11:50:25.667 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:50:26.014 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:50:26.042 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-01 11:50:26.159 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 2.764 seconds (JVM running for 3.658)
+2019-07-01 11:50:34.847 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-01 11:50:34.849 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-01 11:50:34.856 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-07-01 11:50:34.877 [http-nio-8080-exec-2] INFO  com.tong.sevencommon.controller.HelloCommon - hello,this is log
+2019-07-01 11:52:10.702 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 8492 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 11:52:10.708 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-01 11:52:12.791 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 11:52:12.812 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:52:12.824 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 11:52:12.824 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 11:52:12.999 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-01 11:52:13.000 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2186 ms
+2019-07-01 11:52:13.282 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 11:52:13.651 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-01 11:52:13.680 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-01 11:52:13.685 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 4.406 seconds (JVM running for 5.389)
+2019-07-01 12:00:22.357 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 3588 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 12:00:22.361 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-01 12:00:23.966 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 12:00:23.986 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-01 12:00:23.998 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 12:00:23.998 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 12:00:24.168 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-01 12:00:24.168 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1755 ms
+2019-07-01 12:00:24.450 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 12:00:24.830 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-01 12:00:24.859 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-01 12:00:24.973 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 3.503 seconds (JVM running for 4.359)
+2019-07-01 12:01:00.816 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-01 12:01:00.816 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-01 12:01:00.824 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-07-01 12:01:00.843 [http-nio-8080-exec-1] INFO  com.tong.sevencommon.controller.HelloCommon - hello,core! this is info,2019-07-01 12:01:00
+2019-07-01 12:05:59.326 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 8304 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 12:05:59.327 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-01 12:06:01.499 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 12:06:01.519 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-01 12:06:01.534 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 12:06:01.535 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 12:06:01.725 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-01 12:06:01.726 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2305 ms
+2019-07-01 12:06:02.025 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 12:06:02.421 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-01 12:06:02.453 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-01 12:06:02.457 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 4.532 seconds (JVM running for 5.588)
+2019-07-01 12:06:15.640 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-01 12:06:15.641 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-01 12:06:15.650 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2019-07-01 12:06:15.676 [http-nio-8080-exec-2] INFO  com.tong.sevencommon.controller.HelloCommon - hello,core! this is info,2019-07-01 12:06:15
+2019-07-01 12:07:25.332 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 18428 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 12:07:25.333 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-01 12:07:27.254 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 12:07:27.273 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-01 12:07:27.286 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 12:07:27.286 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 12:07:27.485 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-01 12:07:27.486 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2060 ms
+2019-07-01 12:07:27.848 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 12:07:28.309 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-01 12:07:28.353 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-01 12:07:28.361 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 4.13 seconds (JVM running for 4.929)
+2019-07-01 12:07:39.616 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-01 12:07:39.616 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-01 12:07:39.622 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-07-01 12:07:39.642 [http-nio-8080-exec-2] INFO  com.tong.sevencommon.controller.HelloCommon - hello,core! this is info,2019-07-01 12:07:39
+2019-07-01 12:08:14.965 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 20516 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 12:08:14.972 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-01 12:08:16.764 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 12:08:16.784 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-01 12:08:16.795 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 12:08:16.795 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 12:08:16.970 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-01 12:08:16.970 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1903 ms
+2019-07-01 12:08:17.237 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 12:08:17.614 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-01 12:08:17.643 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-01 12:08:17.647 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 4.091 seconds (JVM running for 5.343)
+2019-07-01 12:08:22.506 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-01 12:08:22.507 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-01 12:08:22.515 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-07-01 12:08:22.549 [http-nio-8080-exec-2] INFO  com.tong.sevencommon.controller.HelloCommon - hello,core! this is info,2019-07-01 12:08:22
+2019-07-01 17:49:05.830 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Starting SevenCommonApplication on LAPTOP-AHHUQ9A2 with PID 1756 (D:\workspace\seven-common\target\classes started by SevenTian in D:\workspace\seven)
+2019-07-01 17:49:05.843 [main] INFO  com.tong.sevencommon.SevenCommonApplication - The following profiles are active: dev
+2019-07-01 17:49:07.782 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-01 17:49:07.802 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-01 17:49:07.811 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-01 17:49:07.812 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-01 17:49:07.947 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/common] - Initializing Spring embedded WebApplicationContext
+2019-07-01 17:49:07.947 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1935 ms
+2019-07-01 17:49:08.221 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-01 17:49:08.622 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-01 17:49:08.645 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/common'
+2019-07-01 17:49:08.649 [main] INFO  com.tong.sevencommon.SevenCommonApplication - Started SevenCommonApplication in 4.101 seconds (JVM running for 5.981)

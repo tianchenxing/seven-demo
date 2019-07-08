@@ -1,0 +1,36 @@
+
+Gsquid:S1148╗"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+|squid:S1488Й"]Immediately return this expression instead of assigning it to the temporary variable "count".(ЩЪН╒8мна┘╪-
+╕squid:S2681э"├This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(╖╪иГ8мна┘╪-
+Jsquid:S1168ё"+Return an empty collection instead of null.(╔╧О█8мна┘╪-
+Gsquid:S1148╨"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148ь"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148г"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148Ё"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148╬"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148я"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148ч"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148Ч"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148≥"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148ч"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+╕squid:S2681╦"├This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(╖╪иГ8мна┘╪-
+Fsquid:S1148&"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148и"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148О"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+fsquid:S00112▐"FDefine and throw a dedicated exception instead of using a generic one.(÷╫■▐8мна┘╪-
+Fsquid:S1148;"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+esquid:S00112┌"FDefine and throw a dedicated exception instead of using a generic one.(дйп88мна┘╪-
+Gsquid:S1148▀"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148Ъ"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148╟"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148╒"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Gsquid:S1148М"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+Jsquid:S1168Ъ"+Return an empty collection instead of null.(╔╧О█8мна┘╪-
+Gsquid:S1148Л"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+╕squid:S2681о"├This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(©║┌Э8мна┘╪-
+{squid:S3973м"WUse curly braces or indentation to denote the code conditionally executed by this "if".(√ёзрШЪЪЪЪ8мна┘╪-
+{squid:S3973╤"WUse curly braces or indentation to denote the code conditionally executed by this "if".(√ёзрШЪЪЪЪ8мна┘╪-
+Fsquid:S1148a"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+{squid:S3973з"WUse curly braces or indentation to denote the code conditionally executed by this "if".(√ёзрШЪЪЪЪ8мна┘╪-
+Fsquid:S1148v"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8мна┘╪-
+┌squid:S1488Э"^Immediately return this expression instead of assigning it to the temporary variable "remove".(╡пиЮЩЪЪЪЪ8мна┘╪-

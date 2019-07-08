@@ -1,0 +1,7 @@
+2019-07-02 09:44:10.470 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-02 11:07:24.401 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-02 17:22:33.462 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userInfoMapper' and 'com.tong.sevencommon.mapper.UserInfoMapper' mapperInterface. Bean already defined with the same name!
+2019-07-02 17:22:33.462 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon.mapper]' package. Please check your configuration.
+2019-07-02 18:33:44.015 [http-nio-8080-exec-1] WARN  com.zaxxer.hikari.util.DriverDataSource - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-07-02 18:35:22.509 [http-nio-8080-exec-2] WARN  com.zaxxer.hikari.util.DriverDataSource - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-07-02 18:42:30.621 [http-nio-8080-exec-4] WARN  com.zaxxer.hikari.util.DriverDataSource - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.

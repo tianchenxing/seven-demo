@@ -1,0 +1,6 @@
+
+|squid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éã†úÿÿÿÿ8ñ…ë‡¼-
+qsquid:UselessImportCheck"GRemove this unused import 'com.tong.sevencommon.mapper.UserInfoMapper'.(–ÈèZ8Ù¼ñ€¼-
+>squid:S1068 "'Remove this unused "log" private field.(ëü«
+|squid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éã†úÿÿÿÿ8¶§ê…¼-
+csquid:UselessImportCheck"?Remove this unused import 'tk.mybatis.mapper.entity.Condition'.(³üšÛ

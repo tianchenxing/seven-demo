@@ -1,0 +1,6 @@
+2019-07-01 09:37:25.187 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 09:38:47.634 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 09:41:46.640 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 09:44:07.546 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 09:48:37.366 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.
+2019-07-01 09:53:51.121 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tong.sevencommon]' package. Please check your configuration.

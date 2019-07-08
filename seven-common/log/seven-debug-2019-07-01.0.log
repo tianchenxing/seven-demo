@@ -1,0 +1,3 @@
+2019-07-01 12:06:15.675 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.controller.HelloCommon - hello,core! this is debug,2019-07-01 12:06:15
+2019-07-01 12:07:39.639 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.controller.HelloCommon - hello,core! this is debug,2019-07-01 12:07:39
+2019-07-01 12:08:22.547 [http-nio-8080-exec-2] DEBUG com.tong.sevencommon.controller.HelloCommon - hello,core! this is debug,2019-07-01 12:08:22
